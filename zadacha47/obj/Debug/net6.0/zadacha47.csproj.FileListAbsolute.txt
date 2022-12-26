@@ -1,0 +1,15 @@
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\bin\Debug\net6.0\zadacha47.exe
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\bin\Debug\net6.0\zadacha47.deps.json
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\bin\Debug\net6.0\zadacha47.runtimeconfig.json
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\bin\Debug\net6.0\zadacha47.dll
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\bin\Debug\net6.0\zadacha47.pdb
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.csproj.AssemblyReference.cache
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.AssemblyInfoInputs.cache
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.AssemblyInfo.cs
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.csproj.CoreCompileInputs.cache
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.dll
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\refint\zadacha47.dll
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.pdb
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\zadacha47.genruntimeconfig.cache
+C:\Users\ffdds\OneDrive\Desktop\homework7\zadacha47\obj\Debug\net6.0\ref\zadacha47.dll
